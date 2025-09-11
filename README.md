@@ -1,57 +1,40 @@
-<h1 align="center">Hi 👋, I'm Piyush Varma</h1>
-<h3 align="center">🚀 Aspiring Backend & Full-Stack Developer | Passionate about DSA, Scalable Systems, and Cloud ☁️</h3>
+<h1 align="center">Hi 👋, I'm Piyush Varma (PiyushGit1229)</h1>
+<h3 align="center">🚀 Aspiring Backend / Full-Stack Developer | Cloud Enthusiast | DSA & System Design Buff</h3>
 
 ---
 
 ## 🌟 About Me  
-- 🎓 Final-year student, preparing for **placements (2025)**  
-- 💻 Passionate about **Backend Development, Databases, and Cloud (AWS, DevOps basics)**  
-- 🛠️ Currently mastering **Node.js, FastAPI, SQL, DSA, and System Design**  
-- 📚 Exploring **Recursion, Hash Maps, Sliding Window, and Advanced Patterns** in DSA  
-- 🚀 Long-term goal: **Backend Engineer @ Top Tech (₹20+ LPA)**  
-- 🔭 Working on: **Task Vault API (Auth + Task Manager)** & **SkillProof – Proof-Based Developer Resume Platform**  
+- 🎓 Final-year student, gearing up for 2025 placements  
+- 💻 Love building **scalable systems**, REST APIs, working with **Node.js, FastAPI**, databases & architecture  
+- 🧠 Passionate about **Data Structures & Algorithms**, System Design & clean code  
+- 🚀 Current focus: building real-world projects for resume & portfolio  
 
 ---
 
-## 🛠️ Languages and Tools  
-<p align="center"> 
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,nodejs,express,react,tailwind,fastapi,postgresql,mysql,mongodb,git,github,aws,vscode,figma" />
-</p>
-
----
-
-## 📊 GitHub Stats  
+## 🛠️ Languages & Tools  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piyush-varma&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=piyush-varma&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-varma&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,nodejs,express,react,tailwind,fastapi,postgresql,mysql,mongodb,git,github,aws,vscode" />
 </p>
 
 ---
 
-## 🚀 Projects  
-- 🔗 **Task Vault API** – Node.js + PostgreSQL + Sequelize (Auth + Task Manager)  
-- 🔗 **SkillProof** – A proof-based resume builder for developers  
-- 🔗 **Notion-Inspired Task Manager UI** – React + Tailwind  
-- 🔗 **To-Do List App** – Pure JavaScript with full CRUD  
-- 🔗 **FastAPI Modular Backend** – Authentication & Role-Based Access Control  
-
----
-
-## 🤝 Connect with Me  
+## 📊 GitHub Stats (Live)  
 <p align="center">
-  <a href="https://github.com/piyush-varma"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
-  <a href="https://www.linkedin.com/in/piyush-varma"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="mailto:piyushvarma.dev@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png" height="40"/></a>
-  <a href="https://twitter.com/piyush_varma"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=PiyushGit1229&show_icons=true&theme=tokyonight&cache_seconds=60" alt="Piyush's GitHub stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushGit1229&layout=compact&theme=tokyonight" alt="Top languages used" />
 </p>
 
 ---
 
-⭐️ *“I believe in building scalable, real-world projects and continuously sharpening my problem-solving skills.”*  
+## 🐍 Contribution Snake (Real-Time Animation)  
+<details>
+<summary>Show Snake Animation</summary>
+
+```html
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/PiyushGit1229/PiyushGit1229/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/PiyushGit1229/PiyushGit1229/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/PiyushGit1229/PiyushGit1229/blob/output/github-snake.svg" />
+</picture>
